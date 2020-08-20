@@ -1,7 +1,7 @@
 # SeleniumDemo
 A quick simple demo on automation testing using Selenium and TestNG.
 
-# Scenerio:
+# Scenario:
 ##### User goes to https://www.corporatebrokers.com/
 ##### User scrolls down to CONTACT US.
 ##### User fills out input boxes.
